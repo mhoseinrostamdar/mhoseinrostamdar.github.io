@@ -19,9 +19,6 @@ This repository contains the source code of my personal portfolio website, built
 
 ---
 
-## 🚀 Usage
-To view the project locally:
-```bash
 # Clone the repository
 git clone https://github.com/mhoseinrostamdar/mhoseinrostamdar.github.io.git
 
